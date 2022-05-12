@@ -9,4 +9,5 @@ Trong bài tập này, chúng ta sẽ phát triển các mô hình xác định 
 Tại sao cần làm dự án này? 
 
 Bạn sẽ thấy được việc áp dụng học tập sâu và xử lý ngôn ngữ tự nhiên vào các bài toán thực tế.
+
 Bạn cũng có cơ hội áp dụng một quy trình làm việc deep learning vào thực tiễn: tiền xử lý dữ liệu, mô hình hóa dữ liệu, đánh giá mô hình và tinh chỉnh mô hình.
