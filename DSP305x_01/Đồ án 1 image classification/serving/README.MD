@@ -2,6 +2,8 @@ Model serving bằng Fast API và đóng gói bằng docker
 
 yêu cầu cài đặt docker và các thư viện cần thiết
 
+vào thư mục app và giải nén file asia_plant_b0_efficientnet_v2.zip
+
 vào terminal (command prompt) hoặc window powershell sau đó vào đường dẫn của thư mục này bằng lệnh cd
 
 buil docker images (tạo docker)
