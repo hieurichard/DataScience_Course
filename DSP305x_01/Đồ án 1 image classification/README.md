@@ -6,7 +6,7 @@ Mỗi khu vực đều có những cây đặc thù, khu vực Đông Nam Á cũ
 Đặc biệt người dân khu vực khác cũng có nhu cầu biết về những loại cây Đông Nam Á để có thể áp dụng cho sản xuất, trồng trọt và đem lại giá trị kinh tế cho những khu vực này.
 
 Bạn được thử thách xây dựng mô hình CNN phân loại hình ảnh 26 loại cây: 
-bamboo : cây tre, banana : chuối, cacao : cacao, cinnamon : Quế, coffeearabica : caà phê, dragonfruit : thanh long, durian : sầu riêng, frangipani : Hoa sứ, guava : ổi, jackfruit : mít, lychee : vải thiều, mango : xoài, mangosteen : quả măng cụt, nilam : xoài nilam, papaya : đu đủ, passiflora : lạc tiên, sawo : sapochê, snakefruit : cây cau indo, starfruit : trái khế, sugarpalm : Báng, suweg : suweg, taro : khoai môn, vanilla : vani, waterguava : nước ổi, whitepepper : tiêu sọ, zodia : zodia
+bamboo : cây tre, banana : chuối, cacao : cacao, cinnamon : Quế, coffeearabica : cà phê, dragonfruit : thanh long, durian : sầu riêng, frangipani : Hoa sứ, guava : ổi, jackfruit : mít, lychee : vải thiều, mango : xoài, mangosteen : quả măng cụt, nilam : xoài nilam, papaya : đu đủ, passiflora : lạc tiên, sawo : sapochê, snakefruit : cây cau indo, starfruit : khế, sugarpalm : Báng, suweg : Nưa chuông, taro : khoai môn, vanilla : vani, waterguava : ổi nước, whitepepper : tiêu sọ, zodia : zodia
 với độ chính xác cao nhất.
 
 Dữ liệu Train, Test được lấy từ cuộc thi từ kaggle
